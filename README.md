@@ -1,3 +1,3 @@
-# refactoring-msm-queries-1
+# refactoring-msm-gui-1
 
-Target: https://msm-queries.matchthetarget.com/
+Target: https://msm-gui.matchthetarget.com/
